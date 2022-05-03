@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Reza-PC/Legacy-Ticket#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
-    "djs-tickets": "^5.2.1"
+    "djs-tickets": "^5.2.1" 
   }
 }
