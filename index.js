@@ -3,7 +3,7 @@ const client = new Discord.Client()
 
 const config = {
     token,
-    author
+    author,
 } = require('./config')
 
 client.on('ready', () => {
