@@ -1,0 +1,26 @@
+{
+  "name": "legacy-ticket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reza-PC/Legacy-Ticket.git"
+  },
+  "keywords": [
+    "Legacy"
+  ],
+  "author": "RezaPC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Reza-PC/Legacy-Ticket/issues"
+  },
+  "homepage": "https://github.com/Reza-PC/Legacy-Ticket#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "djs-tickets": "^5.2.1"
+  }
+}
