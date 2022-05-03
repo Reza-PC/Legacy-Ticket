@@ -22,7 +22,7 @@ and lot of more stuff...
 ## Our Team
 Parsa Known as **#PRS** (PhotoShop, Premiere) Github : [Click Here!](https://github.com/parsa8585)<br>
 Reza Known as **#RezaPC** (Bot Configuartion) Github : [Click Here!](https://github.com/Reza-PC)<br>
-Taha Known as **#Koslis** (Kos Lis & Gamer Binamos) Github: [Click Here!](https://github.com/TahaDarcy)<br>
+Taha Known as **#Darcy** (Steam Games & Accounts) Github: [Click Here!](https://github.com/TahaDarcy)<br>
 Amir Known as **#Senpai** (Server Configuration) Github : [Click Here!](https://github.com/3enpai0)<br>
 
 ## License
